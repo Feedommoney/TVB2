@@ -226,6 +226,13 @@ CHC高清电影,http://www.namewee.xyz/gudou.php?id=364&id=CHCHD_7000
 肇庆综合.576,http://www.namewee.xyz/gudou.php?id=364&id=zhaoqingyitao_1500
 肇庆生活服务.576,http://www.namewee.xyz/gudou.php?id=364&id=zhaoqingertao_1500
 怀集综合.576,http://www.namewee.xyz/gudou.php?id=364&id=2805_2000
+港澳台最新,#genre#
+[HD]翡翠,https://stream1.freetv.fun/a72081106d30e39c00e3a194f915610929efac5afde0a72d2cbc6d1f23e0809f.ctv
+无线新闻,https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.ctv
+now爆谷,https://stream1.freetv.fun/bc97521e6ecfc495f5bf5ea0d3aea354504f294d77d1409aef7ffb493c651234.m3u8
+tvb plus,https://stream1.freetv.fun/785f27e4ee269f8de435fac30565adc85cc1299db19bd302d289830072eaf195.ctv
+tvb星河,https://stream1.freetv.fun/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.ctv
+NOW Sports,https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d20c269355406.ctv
 移动央视,#genre#
 CCTV1,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
