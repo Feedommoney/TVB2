@@ -76,22 +76,41 @@ CETV-1（高清）,http://192.168.1.202:18080/D_7690_49_4901
 东莞交通广播,http://192.168.1.202:18080/D_7690_23_2305
 东莞音乐广播,http://192.168.1.202:18080/D_7690_23_2306
 港澳台最新,#genre#
-[HD]翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-[HD]翡翠备用1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-[HD]翡翠备用2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+翡翠备用1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠备用2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
+TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+TVB娱乐新闻2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbylxw
+TVB娱乐新闻3,http://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbylxw
 VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 VIUTV备用,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv2
+VIUTV备用2,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 HOY TV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
 HOY TV.备用,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv2
+美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+美亚电影备用,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 tvb plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 tvb plus480P,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 tvb plus720P,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 tvb星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+TVB星河,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
 RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+RTHK32备用,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻台(备用),http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+TVB无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+TVB无线新闻1,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
+TVB无线新闻2,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
+无线华丽,http://php.jdshipin.com:8880/smt.php?id=Wlt
+无线华丽,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 jdshipin源,#genre#
 东莞生活资讯[1920*1080],http://php.jdshipin.com:8880/0769.php?id=shzx
 东莞新闻综合[1920*1080],http://php.jdshipin.com:8880/0769.php?id=xwzh
@@ -338,6 +357,7 @@ TV新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
 求索科学HD,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 求索纪录HD,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 上海纪实人文HD,http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
+
 
 
 
