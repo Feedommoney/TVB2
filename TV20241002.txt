@@ -1,4 +1,5 @@
 电视频道,#genre#
+CCTV5,http://172.16.149.200:9090/live/1605_800.m3u8?offset=1513&t=QBwqI+lprY7S64c4iEv/wA==&u=17819838781&p=1&pid=&cid=326&l=4400&d=nnq07d6aqitk3s3t&sid=HGnfaDRzj8Q0M%2BhgKEBw1w%3D%3D&r=20260114005510&e=20260114045515&nc=pmvMpb2KeqOZ&a=23&v=2&ptype=1&plocation=4400&puser=17819838781&ptoken=QBwqI+lprY7S64c4iEv/wA==&ot=0&innersid=5655208276847410289&vhost=172.16.149.192:8060
 CCTV5+,http://172.16.149.176:9090/live/1403_7500.m3u8?=channel=1&playseek20260101000000-20260107000000
 澳视澳门,http://172.16.149.178:9090/live/1321_1500.m3u8
 星空卫视,http://172.16.149.178:9090/live/1307_1500.m3u8
@@ -446,6 +447,7 @@ TV新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
 求索科学HD,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 求索纪录HD,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 上海纪实人文HD,http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
+
 
 
 
