@@ -1,35 +1,3 @@
-香港频道,#genre#
-ViuTV,http://r.jdshipin.com/vSJvl
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰香港,http://r.jdshipin.com/yDoTN
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/qrfbg
-无线新闻,http://r.jdshipin.com/CkuBd
-明珠台,http://r.jdshipin.com/ZQ4kN
-TVB Plus,http://r.jdshipin.com/ndGgS
-TVB Plus,http://r.jdshipin.com/Nr5jq
-TVB星河,http://r.jdshipin.com/Voac4
-TVB星河,http://r.jdshipin.com/sXuuD
-华丽翡翠台,http://r.jdshipin.com/thuYX
-IQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
-千禧经典台,http://iptv.4666888.xyz/iptv2A.php?id=22
-港台31,http://iptv.4666888.xyz/iptv2A.php?id=23
-MYTV SUPER,http://iptv.4666888.xyz/iptv2A.php?id=24
-跑马,http://iptv.4666888.xyz/iptv2A.php?id=26
-凤凰台,http://iptv.4666888.xyz/iptv2A.php?id=27
-TVB-综艺,http://iptv.4666888.xyz/iptv2A.php?id=28
-明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
-TVB-奖门人,http://iptv.4666888.xyz/iptv2A.php?id=31
-澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
-靖洋戏剧台,http://iptv.4666888.xyz/iptv2A.php?id=42
-MOM亲子台,http://iptv.4666888.xyz/iptv2A.php?id=49
-动作片,http://iptv.4666888.xyz/iptv2A.php?id=50
-8TV,http://iptv.4666888.xyz/iptv2A.php?id=52
-FTV影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
-民视,http://iptv.4666888.xyz/iptv2A.php?id=55
-靖天电影台,http://iptv.4666888.xyz/iptv2A.php?id=56
-台湾综艺台,http://iptv.4666888.xyz/iptv2A.php?id=65
 8070,#genre#
 翡翠台,http://172.16.149.220:8070/live/1350_7500.m3u8?volume=Suma
 明珠台,http://172.16.149.220:8070/live/1351_7500.m3u8
@@ -272,8 +240,6 @@ Unknown_215,http://172.16.149.192:8060/live/2614_7500.m3u8
 Unknown_220,http://172.16.149.192:8060/live/2619_7500.m3u8
 Unknown_305,http://172.16.149.192:8060/live/2704_7500.m3u8
 Unknown_306,http://172.16.149.192:8060/live/2705_7500.m3u8
-回看,#genre#
-http://172.19.205.146:20010/live/1350_7500.m3u8?volume=Suma
 电视频道,#genre#
 澳视澳门,http://172.16.149.178:9090/live/1321_1500.m3u8
 星空卫视,http://172.16.149.178:9090/live/1307_1500.m3u8
@@ -362,7 +328,169 @@ CCTV17,http://172.16.149.176:9090/live/1616_7500.m3u8
 CETV4,http://172.16.149.178:9090/live/1279_1500.m3u8?t=
 CCTV1,http://172.16.149.176:9090/live/1402_7500.m3u8?t=+F8AnoOZb920lWrgHHfacA==&u=17819838781&p=1&pid=&cid=300&l=4400&d=nnq07d6aqitk3s3t&sid=taBH%2BM0PQoCaqlbgt9Pe9Q%3D%3D&r=20260113213851&e=20260114013856&nc=FZtFzbHK3sEG&a=23&v=2&ptype=1&plocation=4400&puser=17819838781&ptoken=+F8AnoOZb920lWrgHHfacA==&ot=0&innersid=2878511523970557938&vhost=172.16.149.192:8060
 CCTV5+,http://172.16.149.176:9090/live/1403_7500.m3u8?t=+F8AnoOZb920lWrgHHfacA==&u=17819838781&p=1&pid=&cid=300&l=4400&d=nnq07d6aqitk3s3t&sid=taBH%2BM0PQoCaqlbgt9Pe9Q%3D%3D&r=20260113213851&e=20260114013856&nc=FZtFzbHK3sEG&a=23&v=2&ptype=1&plocation=4400&puser=17819838781&ptoken=+F8AnoOZb920lWrgHHfacA==&ot=0&innersid=2878511523970557938&vhost=172.16.149.192:8060
-广电频道,#genre#
+咪咕,#genre#
+晴彩广场舞「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
+晴彩少年「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
+晴彩竞技「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
+晴彩篮球「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
+咪咕直播4K「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
+咪咕直播 𝟜「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
+咪咕直播 𝟝「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
+咪咕直播 𝟞「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
+咪咕直播 𝟟「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
+咪咕直播 𝟠「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
+咪咕直播 𝟡「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟘「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟙「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟚「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟛「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟜「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟝「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟞「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟟「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟠「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
+咪咕直播 𝟙𝟡「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟘「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟙「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟚「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟛「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟜「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟝「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟞「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟟「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟠「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
+咪咕直播 𝟚𝟡「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟘「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟙「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟚「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟛「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟜「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟝「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011519/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟞「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟟「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
+咪咕直播 𝟛𝟠「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
+咪咕视频1,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000001000005308/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频2,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000001000005969/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频3,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000001000007218/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频4,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000001000008001/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频5,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000001000008176/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频6,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000001000008379/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频7,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000001000010129/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频8,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000001000010948/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频9,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000001000028638/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频10,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000001000031494/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频11,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000005837/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频12,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011518/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频13,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011519/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频14,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011520/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频15,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011521/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频16,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011522/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频17,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011523/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频18,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011524/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频19,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011525/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频20,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011528/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频21,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011529/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频22,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011530/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011530&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频23,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011531/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频24,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000000097/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频25,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000002019/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频26,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000002809/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频27,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000003915/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频28,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000004193/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频29,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000006077/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频30,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000006658/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频31,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000009788/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频32,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000010833/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频33,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000011297/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频34,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000011518/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频35,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000012558/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频36,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000012616/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频37,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000015470/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频38,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000015560/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频39,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000017678/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频40,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000019839/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频41,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000021904/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频42,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000023434/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频43,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000025380/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频44,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000027691/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+咪咕视频45,http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000031669/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
+外语频道,#genre#
+CTC儿童,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/2001/manifest.m3u8
+非洲纪录1,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/2004/manifest.m3u8
+非洲纪录2,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/2005/manifest.m3u8
+VIJU+体育,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/2007/manifest.m3u8
+VIJU+戏剧,http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/201/manifest.m3u8
+VIJU+premiere,http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/202/manifest.m3u8
+VIJU+历史,http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/203/manifest.m3u8
+VIJU+历史,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6002/manifest.m3u8
+体育2,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/2177/manifest.m3u8
+体育3,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6157/manifest.m3u8
+荷里活,http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/209/manifest.m3u8
+KHL冰球,http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/215/manifest.m3u8
+VIJU+戏剧,http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/200/manifest.m3u8
+PRIMA体育1,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/7059/manifest.m3u8
+PRIMA体育2,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/7060/manifest.m3u8
+DAZN体育4,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/7063/manifest.m3u8
+W体育,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/7064/manifest.m3u8
+华纳电影,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6111/manifest.m3u8
+CinemaUHD,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/4000/manifest.m3u8
+FX_Comedy,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6106/manifest.m3u8
+CANAN+电影,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6101/manifest.m3u8
+CANAN+体育,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6007/manifest.m3u8
+CANAN+体育,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6005/manifest.m3u8
+BBC地球,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6100/manifest.m3u8
+HBO2,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/7005/manifest.m3u8
+now新闻台,http://173.208.234.146/live/nowxw.m3u8
+翡翠台,http://173.208.234.146/live/jade.m3u8
+鳳凰中文臺,http://173.208.234.146/live/fhzw.m3u8
+鳳凰資訊臺,http://173.208.234.146/live/fhzx.m3u8
+鳳凰香港臺,http://173.208.234.146/live/fhxg.m3u8
+美亞電影臺粵語,http://173.208.234.146/live/mymovie.m3u8
+Popc,http://173.208.234.146/live/popc.m3u8
+HOY國際財經,http://173.208.234.146/live/hoy76.m3u8
+HOY TV,http://173.208.234.146/live/hoy77.m3u8
+HOY 資訊臺,http://173.208.234.146/live/hoy78.m3u8
+中天新聞,http://173.208.234.146/live/ctinews.m3u8
+TVBS新聞臺,http://173.208.234.146/live/tvbsnews.m3u8
+TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
+TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
+娱乐新闻台,https://cdn3.indevs.in/stream/live/ylxwt/
+香港频道,#genre#
+ViuTV,http://r.jdshipin.com/vSJvl
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/qrfbg
+无线新闻,http://r.jdshipin.com/CkuBd
+明珠台,http://r.jdshipin.com/ZQ4kN
+TVB Plus,http://r.jdshipin.com/ndGgS
+TVB Plus,http://r.jdshipin.com/Nr5jq
+TVB星河,http://r.jdshipin.com/Voac4
+TVB星河,http://r.jdshipin.com/sXuuD
+华丽翡翠台,http://r.jdshipin.com/thuYX
+IQIYI,http://iptv.4666888.xyz/iptv2A.php?id=21
+千禧经典台,http://iptv.4666888.xyz/iptv2A.php?id=22
+港台31,http://iptv.4666888.xyz/iptv2A.php?id=23
+MYTV SUPER,http://iptv.4666888.xyz/iptv2A.php?id=24
+跑马,http://iptv.4666888.xyz/iptv2A.php?id=26
+凤凰台,http://iptv.4666888.xyz/iptv2A.php?id=27
+TVB-综艺,http://iptv.4666888.xyz/iptv2A.php?id=28
+明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
+TVB-奖门人,http://iptv.4666888.xyz/iptv2A.php?id=31
+澳视澳门,http://iptv.4666888.xyz/iptv2A.php?id=41
+靖洋戏剧台,http://iptv.4666888.xyz/iptv2A.php?id=42
+MOM亲子台,http://iptv.4666888.xyz/iptv2A.php?id=49
+动作片,http://iptv.4666888.xyz/iptv2A.php?id=50
+8TV,http://iptv.4666888.xyz/iptv2A.php?id=52
+FTV影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
+民视,http://iptv.4666888.xyz/iptv2A.php?id=55
+靖天电影台,http://iptv.4666888.xyz/iptv2A.php?id=56
+台湾综艺台,http://iptv.4666888.xyz/iptv2A.php?id=65
+广电频道老版,#genre#
 翡翠台,http://192.168.1.202:18080/D_7690_43_4301
 东莞新闻综合,http://192.168.1.202:18080/D_7690_22_2201
 东莞生活资讯,http://192.168.1.202:18080/D_7690_22_2202
@@ -721,7 +849,279 @@ TV新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8
 求索科学HD,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 求索纪录HD,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 上海纪实人文HD,http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
+CR频道,#genre#
+METART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6233/manifest.m3u8
+DIGITALDESIRE,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6195/manifest.m3u8
+Playboy PLUS,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6242/manifest.m3u8
+FEMJOY,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6212/manifest.m3u8
+Nubiles,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6238/manifest.m3u8
+Lesbea,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6227/manifest.m3u8
+SEXART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6165/manifest.m3u8
+Playboy HD,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6280/manifest.m3u8
+clubsweethearts,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6186/manifest.m3u8
+EVILANGEL,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6199/manifest.m3u8
+Dorcel TV,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+Dorcel TV,http://88b9da48.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/245/manifest.m3u8
+DORCELCLUB,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6197/manifest.m3u8
+ADULTTIME,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6166/manifest.m3u8
+Private,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6245/manifest.m3u8
+babestv,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6172/manifest.m3u8
+TINY4K,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6258/manifest.m3u8
+TUSHY,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6261/manifest.m3u8
+VIXEN,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6265/manifest.m3u8
+Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8 
+Leo TV,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+Leo TV,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6272/manifest.m3u8
+Playboy HD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+Playboy HD,http://200.4.96.59:8829/play/a09q/index.m3u8
+DDF network,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6217/manifest.m3u8
+JapanHDV,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6225/manifest.m3u8
+Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8 
+Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+Eroxxx,http://88b9da48.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/5015/manifest.m3u8
+Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+Extasy,http://88b9da48.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/5014/manifest.m3u8
+Extasy,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6201/manifest.m3u8
+EroxHD,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+EroxHD,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6296/manifest.m3u8
+eXXXotica HD,http://88b9da48.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/9346/manifest.m3u8
+eXXXotica HD,http://31.148.48.15/O-la-la/playlist.m3u8
+Russkay HD,http://31.43.191.125:8880/VIP0168175968003861/6gsfgs2zaf5d/158507
+Russkay HD,http://88b9da48.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/147/manifest.m3u8
+Russkay HD,http://31.148.48.15/Russkaya_Noch/playlist.m3u8
+PENTHOUSE Reality,http://88b9da48.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/5013/manifest.m3u8
+PENTHOUSE GOLD,http://88b9da48.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/5011/manifest.m3u8
+PENTHOUSE PASSION,http://88b9da48.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/5010/manifest.m3u8
+XXL,http://88b9da48.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/5009/manifest.m3u8
+Hustler HD,http://88b9da48.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/244/manifest.m3u8
+Hustler TV,http://88b9da48.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/1064/manifest.m3u8
+RedLight HD,http://88b9da48.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/242/manifest.m3u8
+GONZO,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/20090/manifest.m3u8
+Defloration,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/20089/manifest.m3u8
+BANG,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6174/manifest.m3u8
+CHERRYPIMPS,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6185/manifest.m3u8
+CUMLOUDER,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6189/manifest.m3u8
+CUM4K,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6190/manifest.m3u8
+DAUGHTERSWAP,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6191/manifest.m3u8
+DIGITALPLAYGROUND,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6196/manifest.m3u8
+FakeTaxi,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6202/manifest.m3u8
+FakeTaxi,http://172.110.221.217/kwFkARezs6hf9345/xOY5bX8gST8P9570/60029
+AD001,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6211/manifest.m3u8
+MYLF,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6216/manifest.m3u8
+HitZefrer,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6220/manifest.m3u8
+Brazzers,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6222/manifest.m3u8
+LittleAsians,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6230/manifest.m3u8
+BangBros,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6235/manifest.m3u8
+NaughtyAmerica,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6237/manifest.m3u8
+Public Agent,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6246/manifest.m3u8
+RealityKings,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6247/manifest.m3u8
+SEXART,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6253/manifest.m3u8
+HOT HD,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6275/manifest.m3u8
+HotPleasure,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6277/manifest.m3u8
+SEXY HOT,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6282/manifest.m3u8
+VENUS,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6284/manifest.m3u8
+XYPLUS,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6288/manifest.m3u8
+SuperOne,http://d029dcec.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/6298/manifest.m3u8
+BLACKED,http://172.110.221.217/kwFkARezs6hf9345/xOY5bX8gST8P9570/60031
+FuckingAweSome,http://172.110.221.217/kwFkARezs6hf9345/xOY5bX8gST8P9570/60046
+NewSeneation,http://172.110.221.217/kwFkARezs6hf9345/xOY5bX8gST8P9570/60047
+Japan,http://172.110.221.217/kwFkARezs6hf9345/xOY5bX8gST8P9570/60045
+FILTHYPOV,http://172.110.221.217/kwFkARezs6hf9345/xOY5bX8gST8P9570/60044
+karups,http://172.110.221.217/kwFkARezs6hf9345/xOY5bX8gST8P9570/60043
+Vivid Red HD,http://31.43.191.125:8880/VIP0168175968003861/6gsfgs2zaf5d/158503
+Vivid Red HD,http://88b9da48.kazmazpaz.ru/iptv/GPD2N3AEEZZ9XT/2162/manifest.m3u8
+EroLuxe Big Cock,http://ottlinks.club/hls/ierw63qgf1/1709.m3u8
+EroLuxe Brunette,http://ottlinks.club/hls/ierw63qgf1/1710.m3u8
+EroLuxe BDSM,http://ottlinks.club/hls/7jic59vkp2tz/1708.m3u8
+EroLuxe BBW,http://ottlinks.club/hls/7jic59vkp2tz/1706.m3u8
+EroLuxe VIP 4K,http://ottlinks.club/hls/7jic59vkp2tz/1705.m3u8
+EroLuxe 4K UHD,http://ottlinks.club/hls/7jic59vkp2tz/1704.m3u8
+EroLuxe BabySitter,http://ottlinks.club/hls/7jic59vkp2tz/1707.m3u8
+EroLuxe Creampie,http://ottlinks.club/hls/ierw63qgf1/1713.m3u8
+EroLuxe Cuckold,http://ottlinks.club/hls/ierw63qgf1/1712.m3u8
+EroLuxe CheerLeader,http://ottlinks.club/hls/ierw63qgf1/1711.m3u8
 
+METART,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6233/manifest.m3u8
+DIGITALDESIRE,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6195/manifest.m3u8
+Playboy PLUS,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6242/manifest.m3u8
+FEMJOY,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6212/manifest.m3u8
+Nubiles,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6238/manifest.m3u8
+Lesbea,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6227/manifest.m3u8
+SEXART,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6165/manifest.m3u8
+Playboy HD,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6280/manifest.m3u8
+clubsweethearts,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6186/manifest.m3u8
+EVILANGEL,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6199/manifest.m3u8
+Dorcel TV,http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/245/manifest.m3u8
+DORCELCLUB,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6197/manifest.m3u8
+ADULTTIME,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6166/manifest.m3u8
+Private,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6245/manifest.m3u8
+babestv,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6172/manifest.m3u8
+TINY4K,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6258/manifest.m3u8
+TUSHY,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6261/manifest.m3u8
+VIXEN,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6265/manifest.m3u8
+Leo TV,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6272/manifest.m3u8
+DDF network,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6217/manifest.m3u8
+JapanHDV,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6225/manifest.m3u8
+Eroxxx,http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/5015/manifest.m3u8
+Extasy,http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/5014/manifest.m3u8
+Extasy,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6201/manifest.m3u8
+EroxHD,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6296/manifest.m3u8
+eXXXotica HD,http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/9346/manifest.m3u8
+Russkay HD,http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/147/manifest.m3u8
+PENTHOUSE Reality,http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/5013/manifest.m3u8
+PENTHOUSE GOLD,http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/5011/manifest.m3u8
+PENTHOUSE PASSION,http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/5010/manifest.m3u8
+XXL,http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/5009/manifest.m3u8
+Hustler HD,http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/244/manifest.m3u8
+Hustler TV,http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/1064/manifest.m3u8
+RedLight HD,http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/242/manifest.m3u8
+GONZO,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/20090/manifest.m3u8
+Defloration,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/20089/manifest.m3u8
+BANG,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6174/manifest.m3u8
+CHERRYPIMPS,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6185/manifest.m3u8
+CUMLOUDER,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6189/manifest.m3u8
+CUM4K,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6190/manifest.m3u8
+DAUGHTERSWAP,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6191/manifest.m3u8
+DIGITALPLAYGROUND,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6196/manifest.m3u8
+FakeTaxi,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6202/manifest.m3u8
+AD001,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6211/manifest.m3u8
+MYLF,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6216/manifest.m3u8
+HitZefrer,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6220/manifest.m3u8
+Brazzers,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6222/manifest.m3u8
+LittleAsians,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6230/manifest.m3u8
+BangBros,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6235/manifest.m3u8
+NaughtyAmerica,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6237/manifest.m3u8
+Public Agent,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6246/manifest.m3u8
+RealityKings,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6247/manifest.m3u8
+SEXART,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6253/manifest.m3u8
+HOT HD,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6275/manifest.m3u8
+HotPleasure,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6277/manifest.m3u8
+SEXY HOT,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6282/manifest.m3u8
+VENUS,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6284/manifest.m3u8
+XYPLUS,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6288/manifest.m3u8
+SuperOne,http://d029dcec.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/6298/manifest.m3u8
+Vivid Red HD,http://88b9da48.kazmazpaz.ru/iptv/Q3DW57VGFFQMKZ/2162/manifest.m3u8
+
+METART,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6233/manifest.m3u8
+DIGITALDESIRE,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6195/manifest.m3u8
+Playboy PLUS,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6242/manifest.m3u8
+FEMJOY,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6212/manifest.m3u8
+Nubiles,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6238/manifest.m3u8
+Lesbea,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6227/manifest.m3u8
+SEXART,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6165/manifest.m3u8
+Playboy HD,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6280/manifest.m3u8
+clubsweethearts,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6186/manifest.m3u8
+EVILANGEL,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6199/manifest.m3u8
+Dorcel TV,http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/245/manifest.m3u8
+DORCELCLUB,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6197/manifest.m3u8
+ADULTTIME,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6166/manifest.m3u8
+Private,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6245/manifest.m3u8
+babestv,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6172/manifest.m3u8
+TINY4K,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6258/manifest.m3u8
+TUSHY,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6261/manifest.m3u8
+VIXEN,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6265/manifest.m3u8
+Leo TV,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6272/manifest.m3u8
+DDF network,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6217/manifest.m3u8
+JapanHDV,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6225/manifest.m3u8
+Eroxxx,http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/5015/manifest.m3u8
+Extasy,http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/5014/manifest.m3u8
+Extasy,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6201/manifest.m3u8
+EroxHD,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6296/manifest.m3u8
+eXXXotica HD,http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/9346/manifest.m3u8
+Russkay HD,http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/147/manifest.m3u8
+PENTHOUSE Reality,http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/5013/manifest.m3u8
+PENTHOUSE GOLD,http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/5011/manifest.m3u8
+PENTHOUSE PASSION,http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/5010/manifest.m3u8
+XXL,http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/5009/manifest.m3u8
+Hustler HD,http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/244/manifest.m3u8
+Hustler TV,http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/1064/manifest.m3u8
+RedLight HD,http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/242/manifest.m3u8
+GONZO,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/20090/manifest.m3u8
+Defloration,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/20089/manifest.m3u8
+BANG,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6174/manifest.m3u8
+CHERRYPIMPS,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6185/manifest.m3u8
+CUMLOUDER,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6189/manifest.m3u8
+CUM4K,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6190/manifest.m3u8
+DAUGHTERSWAP,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6191/manifest.m3u8
+DIGITALPLAYGROUND,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6196/manifest.m3u8
+FakeTaxi,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6202/manifest.m3u8
+AD001,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6211/manifest.m3u8
+MYLF,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6216/manifest.m3u8
+HitZefrer,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6220/manifest.m3u8
+Brazzers,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6222/manifest.m3u8
+LittleAsians,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6230/manifest.m3u8
+BangBros,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6235/manifest.m3u8
+NaughtyAmerica,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6237/manifest.m3u8
+Public Agent,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6246/manifest.m3u8
+RealityKings,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6247/manifest.m3u8
+SEXART,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6253/manifest.m3u8
+HOT HD,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6275/manifest.m3u8
+HotPleasure,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6277/manifest.m3u8
+SEXY HOT,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6282/manifest.m3u8
+VENUS,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6284/manifest.m3u8
+XYPLUS,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6288/manifest.m3u8
+SuperOne,http://d029dcec.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/6298/manifest.m3u8
+Vivid Red HD,http://88b9da48.kazmazpaz.ru/iptv/GKTT8YW6E9SFM2/2162/manifest.m3u8
+其他1,#genre#
+WMMSC,https://t0.97img.com/b1000117/a.m3u8
+MSD210,https://t0.97img.com/a1002305/a.m3u8
+MGL0001,https://t0.97img.com/a73/a.m3u8
+MGL0002,https://t0.97img.com/a72/a.m3u8
+MGL0003,https://t0.97img.com/a71/a.m3u8
+MGL0004,https://t0.97img.com/a70/a.m3u8
+WMM001,https://t0.97img.com/a1000097/a.m3u8
+WMM002,https://t0.97img.com/a1000151/a.m3u8
+MDSR-0005-3,https://t0.97img.com/a1000438/a.m3u8
+C00,https://t0.97img.com/a1002051/a.m3u8
+C01,https://t0.97img.com/a1002260/a.m3u8
+C02,https://t0.97img.com/a1002220/a.m3u8
+C03,https://t0.97img.com/a1002180/a.m3u8
+C04,https://t0.97img.com/a1002225/a.m3u8
+C05,https://t0.97img.com/a1002250/a.m3u8
+C06,https://t0.97img.com/a1002129/a.m3u8
+C07,https://t0.97img.com/a1002234/a.m3u8
+C08,https://t0.97img.com/a1002089/a.m3u8
+C09,https://t0.97img.com/a1002169/a.m3u8
+C10,https://t0.97img.com/a1001991/a.m3u8
+C11,https://t0.97img.com/a1002008/a.m3u8
+C12,https://t0.97img.com/a1001905/a.m3u8
+C13,https://t0.97img.com/a1002010/a.m3u8
+C14,https://t0.97img.com/a1001688/a.m3u8
+C15,https://t0.97img.com/a1001808/a.m3u8
+C16,https://t0.97img.com/a1001769/a.m3u8
+C17,https://t0.97img.com/a1001885/a.m3u8
+C18,https://t0.97img.com/a1001932/a.m3u8
+C19,https://t0.97img.com/a1001806/a.m3u8
+C20,https://t0.97img.com/a1001805/a.m3u8
+C21,https://t33.cdn2020.com/video/m3u8/2025/12/28/9f171288/index.m3u8
+其他2,#genre#
+D01,https://t33.cdn2020.com/video/m3u8/2025/10/30/b820f5aa/index.m3u8
+D02,https://t33.cdn2020.com/video/m3u8/2025/10/30/4746c470/index.m3u8
+D03,https://t33.cdn2020.com/video/m3u8/2025/09/20/38a02b14/index.m3u8
+D04,https://t33.cdn2020.com/video/m3u8/2025/08/15/d14f7130/index.m3u8
+D05,https://t33.cdn2020.com/video/m3u8/2025/08/13/f64b1e06/index.m3u8
+D06,https://t30.cdn2020.com/video/m3u8/2025/06/25/bcdec39e/index.m3u8
+D07,https://t30.cdn2020.com/video/m3u8/2025/06/23/5805b011/index.m3u8
+D08,https://t30.cdn2020.com/video/m3u8/2025/06/21/07093916/index.m3u8
+D09,https://t30.cdn2020.com/video/m3u8/2025/06/21/9d1510ea/index.m3u8
+D10,https://t30.cdn2020.com/video/m3u8/2025/06/18/6332ebcc/index.m3u8
+D11,https://t30.cdn2020.com/video/m3u8/2025/06/18/ee1913c0/index.m3u8
+D12,https://t30.cdn2020.com/video/m3u8/2025/06/17/c1eeb8ae/index.m3u8
+D13,https://t30.cdn2020.com/video/m3u8/2025/06/17/baefb6e6/index.m3u8
+D14,https://t30.cdn2020.com/video/m3u8/2025/06/15/e7ab34ca/index.m3u8
+D15,https://t30.cdn2020.com/video/m3u8/2025/06/11/95bad7bb/index.m3u8
+D16,https://t30.cdn2020.com/video/m3u8/2025/06/10/bf6c627e/index.m3u8
+D17,https://t30.cdn2020.com/video/m3u8/2025/06/09/da1ac851/index.m3u8
+D18,https://t30.cdn2020.com/video/m3u8/2025/06/08/5f887038/index.m3u8
+D19,https://t30.cdn2020.com/video/m3u8/2025/06/06/89b09ec5/index.m3u8
+D20,https://t30.cdn2020.com/video/m3u8/2025/06/05/a4c53249/index.m3u8
+D21,https://t30.cdn2020.com/video/m3u8/2025/06/03/a65a7403/index.m3u8
+其他3,#genre#
+F01,https://t33.cdn2020.com/video/m3u8/2025/12/15/97907b90/index.m3u8
+F02,https://t33.cdn2020.com/video/m3u8/2025/12/13/507c5557/index.m3u8
+F03,https://t33.cdn2020.com/video/m3u8/2025/12/11/e239b9e9/index.m3u8
+F04,https://t33.cdn2020.com/video/m3u8/2025/12/06/4ac8e3ac/index.m3u8
+F05,https://t33.cdn2020.com/video/m3u8/2025/12/28/eb1d7e72/index.m3u8
 
 
 
